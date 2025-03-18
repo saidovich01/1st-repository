@@ -1,3 +1,2 @@
-print("His")
-age = int(input("Your age"))
-print(age)
+#it's my first code)
+print("Hello World")
